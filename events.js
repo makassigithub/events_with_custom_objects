@@ -60,7 +60,7 @@ myStudent.changeAge(3);
 myStudent.lessonChange('Geography');
 
 //because the event is created anytime the age is reset,
-//the following code create one even though the is not increased
+//the following code create one even though the age is not increased
 
 myStudent.changeAge(0);
 
